@@ -5,8 +5,8 @@
 %define devname %mklibname -d %{name}
 
 Name:           bladeRF
-Version:        2021.02
-Release:        1%{?dist} 
+Version:        2021.10
+Release:        1%{?dist}
 Summary:        SDR radio receiver
 License:        GPL-2.0-only AND AGPL-3.0-or-later
 Group:          Productivity/Hamradio/Other
